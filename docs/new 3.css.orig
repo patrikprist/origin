@@ -1,0 +1,13 @@
+git status --untracked-files=all
+
+git log
+–ö–æ–º–µ–Ω—Ç–∞—Ä–∏–π –≤ master
+
+–ö–æ–º–µ–Ω—Ç–∞—Ä–∏–π –≤ style
+–ö–æ–º–µ–Ω—Ç–∞—Ä–∏–π –≤ style
+<<<<<<< HEAD
+–æ–º–µ–Ω—Ç–∞—Ä
+=======
+ ÓÏÂÌÚ‡ËÈ ‚ style
+ ÓÏÂÌÚ‡ËÈ ‚ style
+>>>>>>> style
